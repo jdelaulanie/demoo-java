@@ -44,7 +44,7 @@ public class SampleCode {
         }
 
     }
-/* Adding a comment */
+
     private static void ShowUsage()
     {
         System.out.println("Usage : java -jar SampleCode.jar [CodeSampleName]");
